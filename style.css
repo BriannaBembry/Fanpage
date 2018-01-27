@@ -1,4 +1,49 @@
 header {
 	height: 30%;
-	background-image: url("img/mountains-fog-green-beauty.jpg");
+	background-color: #c4ffd1;
+	font-family: 'Lobster', cursive;
+	font-size: 24px;
 }
+
+main h2 {
+	font-family: 'Josefin Slab', serif;
+	font-size: 23px;
+}
+
+main p {
+	font-family: 'Josefin Slab', serif;
+	font-size: 18px;
+}
+
+main h3 {
+	font-family: 'Lobster', cursive;
+	font-size: 22px;
+}
+
+main ol h3 {
+	color: #77c2e5;
+}
+
+
+.column{
+	float: left;
+	width: 50%;
+}
+
+nav ul li {
+	list-style: none;
+	font-family: 'Josefin Slab', serif;
+}
+
+nav ul {
+	border-style: solid;
+	border-color: #9a60c4;
+	padding: 2%;
+}
+
+
+
+
+
+
+
